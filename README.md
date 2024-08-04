@@ -9,11 +9,7 @@
 
 ## Additional Information
 - General information: The overall idea is to predict the house prices using linear regression. 
-> The steps are as follows, 
-    - Build a linear regression model without cross validation 
-    - Perform k-fold cross validation 
-    - Hyperparameter tuning using cross validation 
-    - Build a final model (based on the parameters finalized)
+- The steps are as follows: Build a linear regression model without cross validation, Perform k-fold cross validation, Hyperparameter tuning using cross validation and Build a final model (based on the parameters finalized)
 - Business problem: To predict the house prices using linear regression. 
 - Dataset: The dataset consisted of 545 rows and 13 columns.
 
